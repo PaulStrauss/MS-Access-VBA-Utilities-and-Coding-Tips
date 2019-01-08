@@ -13,3 +13,5 @@ These are the main procedures:
 1. **ProcTemplate** - commented example of the procedure template with error handling that I use
 
 These routines are pretty well-tested. I regularly use most of them. I welcome your questions or comments; email me at Paul@PStrauss.net. In particular, please contact me if you do find any bugs.
+
+Also, check my other repository: https://github.com/PaulStrauss/Coding-Tips-and-Discussions
