@@ -6,8 +6,8 @@ This file contains a single VBA module. It contains the procedures that I use to
 The code is, I think pretty well documented in the comments.
 
 These are the main procedures:
-1. ErrHandler - displays run-time errors and logs them to a file on c:\
-1. Say - for debugging; display a scalar or string
-1. WriteLog - for debugging; writes message to log file
-1. Trace - for debugging; writes message tagged with current procedure to log file
-1. ProcTemplate - commented example of the procedure template with error handling that I use
+1. **ErrHandler** - displays run-time errors and logs them to a file on c:\
+1. **Say** - for debugging; display a scalar or string
+1. **WriteLog** - for debugging; writes message to log file
+1. **Trace** - for debugging; writes message tagged with current procedure to log file
+1. **ProcTemplate** - commented example of the procedure template with error handling that I use
