@@ -1,2 +1,5 @@
-# MS-Access-VBA-Code-Utilities-and-Coding-Tips
-MS Access VBA Tools, Utilities and Coding Tips
+# MS-Access-VBA-Utilities-and-Coding-Tips
+
+This repository contains a collection of VBA Utilities, or Tools, that I developed during  my career as an MS Access developer. I offer them as is, with no warranties of any kind, to use as you wish. I would appreciate, however, that you retain my name as the original developer. Many of them I have been using for awhile and should be pretty well debugged, but there may be a few lurking in corners that I haven't found yet. If you find any bugs, I'd appreciate you sending me an email about it so I can try to fix it.
+
+I also have ways of coding and opinions that I also present here. These are the general ways I have settled on for coding common situations, such as Procedure Error Handling. I also have some blog-type posts where you can read my opinion on various programming issues. You might not like my opinion on some topic, and that's OK. There is usually more than one correct way to view or approach these topics. For what it's worth, I give you my view on things.
