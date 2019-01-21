@@ -1,2 +1,2 @@
 # MS-Access-VBA-Code-Utilities-and-Coding-Tips
-MS Access Tools, Standard Error Handler and Debug Print Procedures
+MS Access VBA Tools, Utilities and Coding Tips
