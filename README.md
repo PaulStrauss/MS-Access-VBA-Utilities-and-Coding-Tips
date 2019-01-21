@@ -6,6 +6,6 @@ I also have ways of coding and opinions that I also present here. These are the 
 
 I have put each Utility in its own *accdb* and there is a similarly named READ.ME associated with each one. I suggest you first look at the READ.ME's to get an better idea of what's in the *accdb*, usage notes, and any other information I think would be appropriate to include there. Each file should have pretty good internal documentation. 
 
-You can <em>email</em> me at: Paul@PStrauss.net.
+You can email me at: Paul@PStrauss.net.
 
 As of 1/20/2019, I am in the process of building this, my first, repository so there my be some rough edges. There will be more to come over the next few weeks.
