@@ -21,8 +21,8 @@ There are times when a Public variable is necessary. This Class can be used to c
 This Class uses the Collection object rather than the Scripting.Dictionary object because the Collection object does not require a Reference. Since the complexity of emulating the Key/Value structure of Scripting.Dictionary using the simpler Collection object is hidden  within the Class, it was decided that trading this extra coding complexity to reduce and avoid installation and configuration difficulties of the application was worth the coding effort. The API would be the same for either implementation.
 
 USAGE:
-        1) Dim/Public col as [New] Comm_cls (use New for autovivification)
-        2) col.AddValue(Key As String, Value As Variant, Optional NodeName As String = "$Default")
+        1. Dim/Public col as [New] Comm_cls (use New for autovivification)
+        2. col.AddValue(Key As String, Value As Variant, Optional NodeName As String = "$Default")
         3) col.GetValue(Key As String, Optional NodeName As String = "$Default")
         4) col.DeleteItem(Key As String, Optional Node As String = "$Default")
         5) col.DeleteKey(Node As String)
