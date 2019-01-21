@@ -24,12 +24,12 @@ USAGE:
         1) Dim/Public col as [New] Comm_cls (use New for autovivification)
         2) col.AddValue(Key As String, Value As Variant, Optional NodeName As String = "$Default")
         3) col.GetValue(Key As String, Optional NodeName As String = "$Default")
-
+        4) col.DeleteItem(Key As String, Optional Node As String = "$Default")
+        5) col.DeleteKey(Node As String)
+        
 There is no Create Method because the AddValue method automatically creates the Key if it doesn't exist before storing the Value. 
 
 There is no Update Method because the AddValue method will update the Value if the Key exists.
-
-There is no Delete Method because it is not considered to be necessary. Most Pairs will be scalars or short strings so the amount of memory that will be wasted by just abondoning the Pair is not significant. If you do need to recover the memory, for example, a long string or if you stored an Object, then set the string to "" or the Object to Nothing. You could also make an instance of this Class just for those large values and then, when done, just set the Class variable to Nothing.
 
 REQUIRES: Error Message Handler: ErrHandler in module ErrorMessageHandler_Lib
 
