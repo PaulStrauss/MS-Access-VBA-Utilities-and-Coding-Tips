@@ -4,7 +4,7 @@ This repository contains a collection of VBA Utilities, or Tools, that I develop
 
 I also have ways of coding and opinions that I also present here. These are the general ways I have settled on for coding common situations, such as Procedure Error Handling. I also have some blog-type posts where you can read my opinion on various programming issues. You might not like my opinion on some topic, and that's OK. There is usually more than one correct way to view or approach these topics. For what it's worth, I give you my view on things.
 
-I have put each Utility in its own accdb and there is a similarly named READ.ME associated with each one. I suggest you first look at the READ.ME's to get an better idea of what's in the accdb, usage notes, and any other information I think would be appropriate to include there. Each file should have pretty good internal documentation. 
+I have put each Utility in its own **accdb** and there is a similarly named READ.ME associated with each one. I suggest you first look at the READ.ME's to get an better idea of what's in the **accdb**, usage notes, and any other information I think would be appropriate to include there. Each file should have pretty good internal documentation. 
 
 You can email me at: Paul@PStrauss.net.
 
